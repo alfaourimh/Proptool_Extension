@@ -19,6 +19,8 @@ Some steps to help:
 
 One that is done, paste that API key into its indicated located within the google api fetch call in the code.
 
+MAKE SURE TO ADD THE API KEY TO calcprop.js AND THE INLINE SCRIPT IN ptpopup.html
+
 Retool CSV API:
 
 The retool CSV API is open source and allows unlimited calls. If the API is not called for about 30 days, it is deleted. My datasets are included so you can just go to the website reupload the CSVs (or even just upload your own for your own use) and create new ones by following the prompts.
