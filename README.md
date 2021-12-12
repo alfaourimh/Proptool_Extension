@@ -25,4 +25,7 @@ The retool CSV API is open source and allows unlimited calls. If the API is not 
 
 Just keep in mind you will have to change the URLs in each call once you create the new ones (I'm sure you know this).
 
+Here is the link to retool:
+
+https://retool.com/utilities/generate-api-from-csv
 
