@@ -7,7 +7,7 @@ The APIs used in this project are the two instances of the retool api, one for t
 
 PLEASE NOTE:
 
-You MUST generate your own API key for the goodgle apis. This is done by making a google cloud account. you are given a free trial and they give you credit to use as well.
+You MUST generate your own API key for the google apis. This is done by making a google cloud account. you are given a free trial and they give you credit to use as well.
 
 Some steps to help: 
 
