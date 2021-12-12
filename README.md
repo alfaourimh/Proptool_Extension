@@ -25,7 +25,7 @@ Retool CSV API:
 
 The retool CSV API is open source and allows unlimited calls. If the API is not called for about 30 days, it is deleted. My datasets are included so you can just go to the website reupload the CSVs (or even just upload your own for your own use) and create new ones by following the prompts.
 
-Just keep in mind you will have to change the URLs in each call once you create the new ones (I'm sure you know this).
+Just keep in mind you will have to change the URLs in each retool API call once you create the new ones.
 
 Here is the link to retool:
 
